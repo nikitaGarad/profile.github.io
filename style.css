@@ -1,0 +1,29 @@
+.a{
+    height: 800px;
+    width: 100%;
+    background-image:linear-gradient(220deg,purple 0%, purple 20%,gray 20%,gray 30%,yellow 30%,yellow 50%,red 50%,red 70%,gray 70%,gray 80%,red 80%);
+    float: left;
+}
+.b{
+   border-radius: 20px;
+   background-color: rgba(7,2,2,0.2);
+   width: 40%;
+   float: left;
+   margin-top: 200px;
+   margin-left: 450px;
+}
+.c{
+    border-radius: 50%;
+    transform: rotate(70 deg);
+    height: 200px;
+    width: 20%;
+    border: 5px white solid;
+    margin-right: 60px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+.text{
+   text-shadow:2px 2px white ;
+}
